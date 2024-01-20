@@ -28,6 +28,7 @@
 **[Hello-rails-back-end]** is based on Ruby on Rails as backend API.
 
 ### Front-end-link: [Click Here](https://github.com/jubaer919/hello-react-front-end)
+### Api-link: [Click Here](http://127.0.0.1:3000/api/v1/greeting/index)
 
 **Hello Rails Backend** is a classic example of crating api via rails and providing random messages.
 
